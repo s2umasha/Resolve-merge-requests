@@ -16,6 +16,7 @@ Provide world class support to customers on the GitHub platform
 
 Coding, Design
 Python
+
 ### Education
 
 React/NodeJS/MySQL
